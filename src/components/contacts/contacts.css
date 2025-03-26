@@ -1,0 +1,23 @@
+.nav{
+    border:  solid 3px rgb(255, 255, 255);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+.nav_input{
+    border-radius: 10px;
+    border: solid 2px white;
+    background-color: rgba(137, 43, 226, 0.205);
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.cheakbox{
+    color: white;
+}
+label{
+       margin: 5px;
+}
